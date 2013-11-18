@@ -1,4 +1,4 @@
 DotsSpriteKit
 =============
 
-Dots - iOS Game - SpriteKit replica
+Dots replica - iOS Game - developed using SpriteKit, put toghether in a 5 hour session.
